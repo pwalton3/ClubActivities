@@ -9,6 +9,9 @@ namespace StarTed.Entities
     class StartDates
     {
         public string ClubID { get; set; }
-        public DateTime ClubStartDate { get; set; }
+        public string ClubName { get; set; }
+        public int EmployeeID { get; set; }
+        public int Fees { get; set; }
+
     }
 }

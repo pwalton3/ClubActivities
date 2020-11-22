@@ -15,7 +15,7 @@
                 <asp:TextBox ID="PartialStart" runat="server"></asp:TextBox>
                 <br /><br />
                 <asp:Button ID="Button1" runat="server" Text="Activities?" />
-                <asp:GridView ID="GridView1" runat="server"></asp:GridView>
+                <asp:GridView ID="ClubListGrid" runat="server"></asp:GridView>
             </fieldset>
         </div>
     </div>

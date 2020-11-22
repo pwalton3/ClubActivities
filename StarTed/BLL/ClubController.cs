@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace StarTed.BLL
 {
-    class ClubController
+    public class ClubController
     {
         public List<Clubs> Club_List()
         {

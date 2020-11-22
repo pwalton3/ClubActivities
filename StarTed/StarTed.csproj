@@ -52,6 +52,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BLL\ClubController.cs" />
+    <Compile Include="BLL\StartDateController.cs" />
     <Compile Include="DAL\StarTedContext.cs" />
     <Compile Include="Entities\Clubs.cs" />
     <Compile Include="Entities\StartDates.cs" />
